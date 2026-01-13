@@ -2,7 +2,6 @@
 
 🎓 **M.Tech in Artificial Intelligence & Machine Learning**  
 🏫 **JNTUK University College of Engineering, Kakinada**  
-📊 **CGPA: 8.7**  
 💻 **Interests:** Machine Learning, Backend Development, Data Engineering  
 🌱 Currently focused on **ML projects & research-oriented development**
 
