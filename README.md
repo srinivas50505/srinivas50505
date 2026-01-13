@@ -63,9 +63,11 @@
 
 ## 📊 GitHub Stats
 
-![Srinivas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srinivas50505&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srinivas50505&layout=compact)
+
+<img src="https://github-readme-stats.vercel.app/api?username=srinivas50505&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivas50505&layout=compact&theme=github_dark&hide_border=true" />
 
 ---
 
