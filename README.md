@@ -1,4 +1,4 @@
-# Hi 👋, I'm Srinivas Pavan
+# Hi 👋, I'm Srinivasa Pavan
 
 🎓 **M.Tech in Artificial Intelligence & Machine Learning**  
 🏫 **JNTUK University College of Engineering, Kakinada**  
