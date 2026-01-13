@@ -1,4 +1,4 @@
-# Hi 👋, I'm Srinivasa Pavan
+# Hi 👋, I'm Pucha Srinivasa Pavan
 
 🎓 **M.Tech in Artificial Intelligence & Machine Learning**  
 🏫 **JNTUK University College of Engineering, Kakinada**  
@@ -70,8 +70,8 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: *(add your LinkedIn link here)*
-- 📧 Email: *(add your professional email here)*
+- 💼 LinkedIn: *https://www.linkedin.com/in/pucha/*
+- 📧 Email: *pspavan505@gmail.com*
 
 ---
 
